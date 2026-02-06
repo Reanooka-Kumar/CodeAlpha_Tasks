@@ -48,13 +48,5 @@ python CodeAlpha_DiseasePrediction_from_Medical_data/main.py
 - Reproducible experiments with separated requirements for each project.
 - Lightweight and easy to extend for new datasets or model architectures.
 
-## How to Contribute
 
-- Open an issue describing the feature or bug.
-- Fork the repo, implement changes on a branch, and submit a pull request with a clear description and tests/examples.
 
-## License & Contact
-
-This portfolio is for demonstration and learning. For questions or collaboration, open an issue or contact the author.
-
-Enjoy exploring CodeAlpha — where data meets decisions.
